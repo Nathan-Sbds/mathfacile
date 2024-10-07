@@ -1,0 +1,78 @@
+[33mcommit 1271cde612abba17fea7b7ba2e5d2793d5837f7f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Hypatie d’Alexandrie <hypatie@mathfacile.fr>
+Date:   Tue Sep 20 11:48:19 2022 +0100
+
+    Ajout de la racine carrée
+
+[33mcommit c97529f939e387dd40c1d538e0f3aa3ca5028c58[m[33m ([m[1;33mtag: [m[1;33mv1.2[m[33m)[m
+Author: Hypatie d’Alexandrie <hypatie@mathfacile.fr>
+Date:   Wed Feb 9 11:44:36 2022 +0100
+
+    Version 1.2
+
+[33mcommit 89aae2a6fa4847a574681d843e87f67778541c34[m
+Author: Hypatie d’Alexandrie <hypatie@mathfacile.fr>
+Date:   Sun Jan 16 11:44:12 2022 +0100
+
+    Correction de la division
+
+[33mcommit 7cee4457a67c9e4f0f3c3801f60d5522bcac4787[m[33m ([m[1;33mtag: [m[1;33mv1.1[m[33m)[m
+Author: Hypatie d’Alexandrie <hypatie@mathfacile.fr>
+Date:   Sun Feb 9 11:32:25 2020 +0100
+
+    Version 1.1
+
+[33mcommit bcf8262766885be58b1b1440791b3b55b8ac0555[m
+Merge: 0b76368 93d721a
+Author: Hypatie d’Alexandrie <hypatie@mathfacile.fr>
+Date:   Sat Dec 14 11:31:28 2019 +0100
+
+    Fusion de la branche 'constantes'
+
+[33mcommit 93d721ac0e106e4f000066aa914902f4afc7c137[m
+Author: Ada Lovelace <ada@mathfacile.fr>
+Date:   Mon Oct 7 11:30:20 2019 +0100
+
+    Ajout de la constante e
+
+[33mcommit 0b7636882036d1e9f76735dbf9d0b9e243806408[m
+Author: Hypatie d’Alexandrie <hypatie@mathfacile.fr>
+Date:   Mon Aug 26 11:29:38 2019 +0100
+
+    Ajout de la division
+
+[33mcommit 7cfd42bc6d7bec0fe4d943874744fe9701659a5a[m
+Author: Ada Lovelace <ada@mathfacile.fr>
+Date:   Sat Jul 6 11:28:47 2019 +0100
+
+    Ajout de la constante pi
+
+[33mcommit 5b110cfca986e3c2ea3c4b1ee63ca78381a9d5be[m
+Author: Hypatie d’Alexandrie <hypatie@mathfacile.fr>
+Date:   Thu Mar 21 11:27:00 2019 +0100
+
+    Ajout de la multiplication
+
+[33mcommit a8f54c3febb53347ae5bae7ece639c7728207445[m[33m ([m[1;33mtag: [m[1;33mv1.0[m[33m)[m
+Author: Hypatie d’Alexandrie <hypatie@mathfacile.fr>
+Date:   Fri Sep 28 11:24:06 2018 +0100
+
+    Version 1.0
+
+[33mcommit e1d706d049ff323bb7915461644778f8553581e8[m
+Author: Hypatie d’Alexandrie <hypatie@mathfacile.fr>
+Date:   Mon Aug 6 11:23:13 2018 +0100
+
+    Ajout de l’addition et de la soustraction
+
+[33mcommit a68b74321e4b131a5b73fd612d93e63eee0dc6c9[m
+Author: Hypatie d’Alexandrie <hypatie@mathfacile.fr>
+Date:   Thu Oct 12 11:18:15 2017 +0100
+
+    Ajout du numéro de version
+
+[33mcommit e42196c2f53ad353642bd5ed6167772d1338fcfc[m
+Author: Hypatie d’Alexandrie <hypatie@mathfacile.fr>
+Date:   Thu Jan 5 11:13:35 2017 +0100
+
+    Ajout de la licence et du fichier README
